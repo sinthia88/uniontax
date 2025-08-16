@@ -1,0 +1,1 @@
+chrome-extension://hlifkpholllijblknnmbfagnkjneagid/content/captchaDetector.js
